@@ -2,6 +2,7 @@
 
 
 **Data Used** 
+
 The data used in this data are from the World Health Organisation and American Hosptial Association. The files are uploaded in this respository, under the folder: 'Raw Data'. In addition to that, there is data that has been cleaned for the model. This is under the file 'Cleaned Data'. 
 
 
