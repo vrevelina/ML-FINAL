@@ -26,11 +26,8 @@ from uszipcode import **Zipcode, SearchEngine**
 
 from datetime import **datetime, timedelta**
 
-**How to Run**
-
-Run the code in the coding file on the repository: 'CODES.ipynb'. 
-
-
 **What to Do**
+
+Run the code in the coding file on the repository: 'CODES.ipynb'. The data files have to be in the same environment. If you want to run just the analysis, there is a file called 'finaldata.csv' that can be used.
 
 
